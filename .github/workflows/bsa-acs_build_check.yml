@@ -20,10 +20,10 @@ jobs:
         with:
           repository: anncheng-arm/bsa-acs
 
-      - name: Download Arm GCC cross-compiler and Linux 6.8 and Linux ACS
+      - name: Download Arm GCC cross-compiler and Linux 6.10 and Linux ACS
         run: |
               cd ..
-              git clone https://github.com/torvalds/linux.git -b v6.8 linux6.8
+              git clone https://github.com/torvalds/linux.git -b v6.10 linux6.10
               git clone https://github.com/anncheng-arm/linux-acs.git
               ls
               mkdir -p /opt/cross
