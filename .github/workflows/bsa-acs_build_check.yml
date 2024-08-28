@@ -1,12 +1,6 @@
 name: BSA-ACS Build Check
 
 on:
-  push:
-    branches:                # trigger on push to master
-      - main
-  pull_request:              # trigger on pull requests to master
-    branches:
-      - main
   workflow_dispatch:         # to dispatch from Github Actions
 
 jobs:
