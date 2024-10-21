@@ -104,6 +104,7 @@
   ../test_pool/pcie/operating_system/test_os_p038.c
   ../test_pool/pcie/operating_system/test_os_p039.c
   ../test_pool/pcie/operating_system/test_os_p042.c
+  ../test_pool/pcie/operating_system/test_os_p043.c
   ../test_pool/smmu/operating_system/test_os_i001.c
   ../test_pool/smmu/operating_system/test_os_i002.c
   ../test_pool/smmu/operating_system/test_os_i003.c
@@ -113,6 +114,10 @@
   ../test_pool/smmu/hypervisor/test_hyp_i004.c
   ../test_pool/power_wakeup/operating_system/test_os_u001.c
   ../test_pool/power_wakeup/operating_system/test_os_u002.c
+  ../test_pool/power_wakeup/operating_system/test_os_u003.c
+  ../test_pool/power_wakeup/operating_system/test_os_u004.c
+  ../test_pool/power_wakeup/operating_system/test_os_u005.c
+  ../test_pool/power_wakeup/operating_system/test_os_u006.c
   ../test_pool/peripherals/operating_system/test_os_d001.c
   ../test_pool/peripherals/operating_system/test_os_d002.c
   ../test_pool/peripherals/operating_system/test_os_d003.c
